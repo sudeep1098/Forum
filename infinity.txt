@@ -1,0 +1,2 @@
+MySQL DB Name	MySQL User Name	MySQL Password	MySQL Host Name	PHPMyAdmin
+if0_35114806_idiscuss	if0_35114806	9WS0qgEurM	sql300.infinityfree.com	
